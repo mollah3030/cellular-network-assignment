@@ -34,15 +34,9 @@ Measurements were taken under different conditions:
 
 Screenshots of the collected data are included in this repository.
 
----
 
-## Collected Data
-The following files contain the recorded measurements:
-- `measurement1_lte_debug.jpg`
-- `measurement1_phone_info.jpg`
-- `measurement2_phone_info.jpg`
 
-These screenshots show the cellular parameters observed during the investigation.
+
 
 ---
 
