@@ -1,5 +1,8 @@
 # cellular-network-assignment
 
+#<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c2248edf-a6c0-48f9-ad6d-88c1fe8059da" />
+
+
 ## Cellular Network Parameters Investigation
 
 ### Objective
